@@ -9,11 +9,11 @@ Dinamik web uygulamaları, ölçeklenebilir backend sistemleri, masaüstü uygul
 ### **Frontend & Design**
 - **Diller:** <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 - **Frameworks:** <img src="https://skillicons.dev/icons?i=nextjs" />
-- **CSS:** https://skillicons.dev/icons?i=tailwind" />
+- **CSS:** <img src="https://skillicons.dev/icons?i=tailwind" />
 
 ### **Backend & Masaüstü / Bot Geliştirme**
 - **Diller & Çalışma Ortamları:** <img src="https://skillicons.dev/icons?i=java,js,nodejs" />
-- **Masaüstü & Bot:** <img src="https://skillicons.dev/icons?i=electron,discordjs" /> <img src="https://github.com/discord-jda/JDA/blob/assets/assets/readme/logo.png?raw=true" />
+- **Masaüstü & Bot:** <img src="https://skillicons.dev/icons?i=electron,discordjs" />
 - **Veritabanı:** <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ---
