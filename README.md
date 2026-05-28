@@ -16,7 +16,7 @@ Dinamik web uygulamaları, ölçeklenebilir backend sistemleri, masaüstü uygul
 
 ### **Backend & Masaüstü / Bot Geliştirme**
 - **Diller & Çalışma Ortamları:** 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 - **Masaüstü & Bot:** 
   <img src="https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron.js" /> <img src="https://img.shields.io/badge/JDA_(Java)-☕-ED8B00?style=flat-square" alt="JDA" /> <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js" />
 - **Veritabanı:** 
