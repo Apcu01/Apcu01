@@ -7,19 +7,23 @@ Dinamik web uygulamaları, ölçeklenebilir backend sistemleri, masaüstü uygul
 ## 🛠️ Kullandığım Teknolojiler
 
 ### **Frontend & Design**
-#### Diller
+#### Diller:
 <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-#### Frameworks
+
+#### Frameworks:
 <img src="https://skillicons.dev/icons?i=nextjs" />
-#### CSS
+
+#### CSS:
 <img src="https://skillicons.dev/icons?i=tailwind" />
 
 ### **Backend & Masaüstü / Bot Geliştirme**
-#### Diller & Çalışma Ortamları
+#### Diller & Çalışma Ortamları:
 <img src="https://skillicons.dev/icons?i=java,js,nodejs" />
-#### Masaüstü & Bot
+
+#### Masaüstü & Bot:
 <img src="https://skillicons.dev/icons?i=electron,discordjs" />
-#### Veritabanı
+
+#### Veritabanı:
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ---
