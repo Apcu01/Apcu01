@@ -7,20 +7,14 @@ Dinamik web uygulamaları, ölçeklenebilir backend sistemleri, masaüstü uygul
 ## 🛠️ Kullandığım Teknolojiler
 
 ### **Frontend & Design**
-- **Diller:** 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-- **Frameworks:** 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-- **CSS:** 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+- **Diller:** https://skillicons.dev/icons?i=js,ts,html,css
+- **Frameworks:** https://skillicons.dev/icons?i=nextjs
+- **CSS:** https://skillicons.dev/icons?i=tailwind
 
 ### **Backend & Masaüstü / Bot Geliştirme**
-- **Diller & Çalışma Ortamları:** 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-- **Masaüstü & Bot:** 
-  <img src="https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron.js" /> <img src="https://img.shields.io/badge/JDA_(Java)-☕-ED8B00?style=flat-square" alt="JDA" /> <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js" />
-- **Veritabanı:** 
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+- **Diller & Çalışma Ortamları:** https://skillicons.dev/icons?i=java,js,nodejs
+- **Masaüstü & Bot:** https://skillicons.dev/icons?i=electron,discordjs https://github.com/discord-jda/JDA/blob/assets/assets/readme/logo.png?raw=true
+- **Veritabanı:** https://skillicons.dev/icons?i=mysql,mongodb
 
 ---
 
